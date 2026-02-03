@@ -20,3 +20,70 @@
 - Created taskOrientation.md: 10 items (50 min/300 words, summarise-paraphrase-synthesise, APA in-text no ref list, structure intro-body-conclusion, no AI tools, glossary ref only, topic + Ho et al. sources, 4-step reading, strong vs weak samples, 15% + answer sheet); discussion questions for teacher (5) and peers (5)
 - Updated understandTask.md: added heading "# Understand task: Academic Writing Quiz orientation"
 - Task complete
+
+[2026-02-03] Task: Word count comparison for excerpts
+- Pulled latest from GitHub: already up to date
+- Read Sample Academic Writing Quiz.md and practice1.md
+- Counted word lengths of Discussion sections (excluding abstracts):
+  - Sample AWQ Article A (Hong et al., 2022): 429 words
+  - Sample AWQ Article B (Andrejevic & Selwyn, 2020): 310 words
+  - Sample AWQ Total: 739 words
+  - Practice 1 Article A (Skjuve et al., 2021): 417 words
+  - Practice 1 Article B (Laestadius et al., 2022): 449 words
+  - Practice 1 Total: 866 words
+- Created wordCountSampleQuiz.md in MockPractice folder
+- Finding: Practice 1 excerpts are 127 words longer than Sample AWQ
+- Task complete
+
+[2026-02-03] Task: Create linear points for Sample AWQ excerpts
+- Read prep.md in teacherJumpIntoWater folder
+- Analysed Article A (Hong et al., 2022) and Article B (Andrejevic & Selwyn, 2020)
+- Created linearPoints.md with:
+  - Article A: 6 key points (study context, privacy concerns, tech openness, perceived value, continuance intention, overall finding)
+  - Article B: 6 key points (context, critical stance, inescapable data, opt-out issues, coercion in schools, consent inadequacy)
+  - Teacher comments and hints for writing summary
+  - Summary table contrasting stances (supportive vs. critical)
+  - Next step guidance for synthesis
+- Task complete
+
+[2026-02-03] Task: Enhanced outline and synthesis planning
+- Read commentsonLinear.md for requirements
+- Created linearPoints02.md:
+  - Article A: causal chain (DBVW/tech innovativeness → perceived value → continuance intention)
+  - Article B: added specific examples/quotes from text
+  - Visualised argument flow with arrows
+- Created synthesisPlan.md:
+  - Mapped A↔B point connections (A2↔B3, A4↔B4, etc.)
+  - Identified key contrast: perceived value (A) vs. consent (B)
+  - Structure plan: intro (background + thesis), body (2 clusters), conclusion
+  - Point clusters: (1) privacy/consent, (2) value vs. choice
+- Created detailedPlan.md:
+  - Paragraph-by-paragraph outline with word count targets
+  - Excerpts to paraphrase from both articles
+  - Flow guidance with transitions
+  - Citation format quick reference
+  - No complete sentences (as requested)
+- Task complete
+
+[2026-02-03] Task: Sentence-by-sentence writing guide
+- Read enhanceDetailedPlan.md for requirements
+- Created detailedplan02.md:
+  - Bibliographic info for both papers (Hong et al. 2022, Andrejevic & Selwyn 2020)
+  - APA 7th edition citation formats with examples
+  - 12-sentence structure: Intro (3), Body (6-8), Conclusion (1-2)
+  - Each sentence has: what to write, excerpt to paraphrase, citation indicator, example frame
+  - Word count targets (~240 words total)
+  - Checklist for submission
+- Task complete
+
+[2026-02-03] Task: Create JumpWaterAgain docs for Practice 1
+- Read jumpWaterAgain.md for requirements
+- Created same doc set for Practice 1 (AI chatbots topic) in MockPractice/JumpWaterAgain:
+  - prep.md: overview of excerpts (Skjuve 2021, Laestadius 2022) with notes
+  - linearPoints.md: 6 points each for Article A (benefits) and Article B (harms)
+  - linearPoints02.md: enhanced with connections (trust→disclosure→wellbeing vs. dependence→role-taking→harms)
+  - synthesisPlan.md: mapped A↔B connections, identified shared ground + contrast
+  - detailedPlan.md: paragraph-by-paragraph outline with excerpts
+  - detailedplan02.md: sentence-by-sentence guide with citation formats
+- All docs include explanations for student guidance
+- Task complete

@@ -15,6 +15,20 @@ This week (Week 3-4 in the schedule) focuses on **discrete event simulation** us
 
 ---
 
+## 🧠 Lecture Highlights (Feb 4)
+
+For a full summary, see `lectureNotes.md` in the same folder.
+
+**Key points from the lecture:**
+- **Data source scrutiny:** headline claims must be traced to the underlying dataset (job market example from the Joint Institution Job Information System).
+- **Week 3 recap:** perceived government responsiveness + policy fairness explained ~61% of support; forward/backward regression gave the same predictors.
+- **Visualization guidance:** for **categorical** variables, use **bar charts** instead of scatterplots.
+- **Bus 56 case study:** frequency changes despite a 32% load factor; clarified questions about definitions, peak hour timing, and averaging.
+- **Simulation design:** Normal (travel time), Poisson (boarding), Binomial (alighting) + 4‑step SimPy structure.
+- **Evidence-based inquiries:** ask TD about data used, evaluation criteria, and public data release.
+
+---
+
 ## 🎯 What You're Learning
 
 ### 1. **Random Variable Generation with NumPy**
